@@ -10,11 +10,11 @@ button {
 	color: blue;
 }
 
-#make-larger {
+.make-large {
 	font-size: 100px;
 }
 
-.add-border {
+#add-border {
 	border: 2px solid white;
 }
 
