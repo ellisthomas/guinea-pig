@@ -5,7 +5,7 @@ var outputTarget = document.getElementById("output-target");
 var pageTitle = document.getElementById("page-title");
 var guineaPig = document.getElementById("guinea-pig");
 var addColor = document.getElementById("add-color");
-var makeLarger = document.getElementById("make-larger");
+var makeLarger = document.getElementById("make-large");
 var addBorder = document.getElementById("add-border");
 var addRounding = document.getElementById("add-rounding");
 
@@ -32,7 +32,7 @@ addColor.addEventListener("click", function() {
 });
 
 makeLarger.addEventListener("click", function() {
-	guineaPig.classList.add("make-larger");
+	guineaPig.classList.add("make-large");
 });
 
 addBorder.addEventListener("click", function() {
