@@ -14,7 +14,7 @@ button {
 	font-size: 100px;
 }
 
-#add-border {
+.add-border {
 	border: 2px solid white;
 }
 

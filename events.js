@@ -47,4 +47,10 @@ addRounding.addEventListener("click", function() {
 
 function writeToOutputTarget(text) {
 	outputTarget.innerHTML = 'You clicked on the ' + text + ' section';
+	console.log("outputTarget", outputTarget);
 };
+
+
+
+
+
